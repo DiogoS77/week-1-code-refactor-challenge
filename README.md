@@ -46,7 +46,9 @@ I think this challenge helped me understand how a website sturcture is made and 
 
 ## Usage
 
+This is is a website related to Horiseon Social Solution Services, and it is very simple to work with. You can either scroll down to see the contents or click on the navigation links at the top like Search Engine Optimization, Online Reputation Management and Social Media Marketing. When you click in one of those three they will move you the the section you selected. This will have you time from scrolling down and searching for the correct subject.
 
+![alt text](/assets/images/Webpage.jpg "End Result Screenshot")
 
 ## License
 
